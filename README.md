@@ -14,3 +14,6 @@ This project analyzes customer sales data to understand spending behavior and tr
 
 ## 📁 Files
 - Customer_Sales_Analysis.ipynb
+
+## 📊 Visualization
+![Chart](chart.png)
